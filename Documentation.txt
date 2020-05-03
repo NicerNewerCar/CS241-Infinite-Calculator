@@ -1,0 +1,10 @@
+This program is a calculator that can do basic operations with infinitely sized integers. 
+
+The program works with two files one that is a set of users inputs, with one line in the file being one equation to be entered into the calculator, and the other is the programs output file, where one line is the answer to the equation on the corresponding lines from the input file.
+
+As of right now the calculator supports the following operations: addition, subtraction, multiplication, and the use of parentheses.
+
+Plans for future iterations of the calculator:
+Add support for expoints, factorials, trig functions, and division
+Create a GUI for the user
+
